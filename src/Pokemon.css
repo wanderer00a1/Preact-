@@ -1,0 +1,12 @@
+
+.Pokemon {
+    border: 1px solid red;
+    margin: 20px;
+    border-radius: 14%;
+
+  }
+
+.Pokemon img{
+    width: 310px;
+    height: 410px;
+}
